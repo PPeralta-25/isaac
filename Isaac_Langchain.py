@@ -1,4 +1,3 @@
-from typing import Any, Callable
 
 from langchain_core.chat_history import InMemoryChatMessageHistory
 from langchain_core.prompts import MessagesPlaceholder
