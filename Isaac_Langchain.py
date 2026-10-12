@@ -8,7 +8,6 @@ from langchain_core.prompts.chat import (SystemMessagePromptTemplate,HumanMessag
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.chat_history import BaseChatMessageHistory
 
-from typing import Callable
 import os
 from dotenv import load_dotenv
 
